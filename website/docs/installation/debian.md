@@ -171,7 +171,7 @@ Environment="LC_CTYPE=en_US.UTF-8"
 Environment="TZ=Europe/Berlin"
 Environment="PORT=4000"
 Environment="DATABASE_USER=teslamate"
-Environment="DATABASE_PASS=#your secure password!
+Environment="DATABASE_PASS=#your secure password!"
 Environment="DATABASE_NAME=teslamate"
 Environment="DATABASE_HOST=127.0.0.1"
 Environment="MQTT_HOST=127.0.0.1"
